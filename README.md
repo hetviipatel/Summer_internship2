@@ -63,9 +63,18 @@ This repository showcases my **AI/ML Developer** internship at **TechMicra**.
 ### Phase 2: Project (Weeks 5–8)
 
 - **Week 5:** Dataset curation & preprocessing (resize, normalize, augment).
+- Curated and preprocessed a PlantVillage dataset.
+- Applied resizing, normalization, and augmentation to improve model performance.
 - **Week 6:** CNN architecture design & training with Keras; early stopping/checkpointing.
+- Built a CNN architecture with Keras for leaf disease classification.
+- Used early stopping and checkpointing to save the best model.
 - **Week 7:** Evaluation & optimization; confusion matrix, hyperparameter tuning.
+- Measured accuracy, precision, recall, and F1-score.
+- Tuned hyperparameters to improve prediction quality.
 - **Week 8:** Flask integration, UI with Bootstrap, authentication, final testing & docs.
+- Integrated the trained model into Flask.
+- Created a responsive UI with Bootstrap and implemented user authentication.
+- Conducted final testing, ensuring smooth predictions and fast loading times.
 
 ---
 
