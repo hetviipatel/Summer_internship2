@@ -76,8 +76,6 @@ A complete web solution for farmers to:
 - View real-time & 7-day **weather** forecasts,
 - Manage crops, history, and treatment recommendations.
 
-> Demo (dev): `http://localhost:5000/`  
-> Model API: `/predict` (Flask endpoint)
 
 ### Key Features
 - 🌿 **Plant Disease Detection**
