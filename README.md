@@ -102,5 +102,3 @@ A complete web solution for farmers to:
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5
 - **Database:** SQLite
 - **Tools:** Git/GitHub, Jupyter/VS Code
-
-### Project Structure
